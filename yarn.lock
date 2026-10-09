@@ -6155,10 +6155,10 @@ node-releases@^1.1.71:
   resolved "https://registry.npmjs.org/node-releases/-/node-releases-1.1.73.tgz#dd4e81ddd5277ff846b80b52bb40c49edf7a7b20"
   integrity sha512-uW7fodD6pyW2FZNZnp/Z3hvWKeEW1Y8R1+1CnErE8cXFXzl5blBOoVB41CvMer6P6Q0S5FXDwcHgFd1Wj0U9zg==
 
-nodemailer@^6.6.3:
-  version "6.6.3"
-  resolved "https://registry.yarnpkg.com/nodemailer/-/nodemailer-6.6.3.tgz#31fb53dd4d8ae16fc088a65cb9ffa8d928a69b48"
-  integrity sha512-faZFufgTMrphYoDjvyVpbpJcYzwyFnbAMmQtj1lVBYAUSm3SOy2fIdd9+Mr4UxPosBa0JRw9bJoIwQn+nswiew==
+nodemailer@^10.0.15:
+  version "10.0.15"
+  resolved "https://registry.yarnpkg.com/nodemailer/-/nodemailer-10.0.15.tgz#3b2403435ed21d718f79c671cf338e316d7007b8"
+  integrity sha512-EUqp5PhtcsYXs9Fq/lS7s/8zlTrnBqmzZWzFFROrNikMiz+om/YRKMwqN907t+0A1KKyT8jd39CBUbFZmaZmcA==
 
 normalize-package-data@^2.3.0, normalize-package-data@^2.3.2, normalize-package-data@^2.3.4, normalize-package-data@^2.5.0:
   version "2.5.0"
